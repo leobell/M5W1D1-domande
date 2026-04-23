@@ -1,2 +1,42 @@
 # M5W1D1-domande
 Quiz react
+
+1. Cos’è ReactJS?
+
+React Js è una libreria open source di Javascript creata e sviluppata da Facebook con lo scopo di sviluppare interfacce Utenti di applicazioni web
+
+2. ReactJS è un framework, non una libreria.
+
+falso
+
+3. Il file package.json contiene…
+
+– Molte informazioni utili, come ad esempio l’elenco di tutte le dipendenze richieste dall’applicazione
+
+4. create-react-app è l’unico modo possibile per creare un’applicazione React.
+
+Falso
+
+5. Qual è il comando da lanciare nel terminale per creare una nuova create-react-app con nome “test”?
+
+– npx create-react-app test
+
+6. Cos’è un componente React?
+
+– Un blocco di logica/contenuto riutilizzabile all’interno dell’applicazione 
+
+7. Un componente React può venire creato in tre modi: come funzione, classe o interfaccia.
+
+Falso
+
+8. Le props sono frammenti di informazione assegnati all’invocazione di un componente React, utili al fine di rendere il componente dinamico e più riutilizzabile.
+
+Vero
+
+9. Le props possono essere passate solamente da un componente genitore ad un componente figlio, non è possibile fare il contrario 
+
+Vero
+
+10. Da dove possono venire recuperate le props all’interno di un componente React creato come classe?
+
+– Possono essere recuperate all’interno dello oggetto ‘this’, dentro un sotto-oggetto chiamato ‘props’
